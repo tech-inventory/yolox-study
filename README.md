@@ -1,3 +1,7 @@
+# yolox-study
+YOLOXの構造、仕組みを理解するための勉強用リポジトリ
+
+
 <div align="center"><img src="assets/logo.png" width="350"></div>
 <img src="assets/demo.png" >
 
@@ -227,3 +231,4 @@ If you use YOLOX in your research, please cite our work by using the following B
   year={2021}
 }
 ```
+=======
